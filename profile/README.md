@@ -6,7 +6,7 @@ Utilizamos os Teams para administrar os times e projetos enquanto o GitHub não 
 ![Add Team](images/team.PNG)
 
 ### Como adicionar novos repositórios?
-Crie o repositório e associe ao Time ou Projeto responsável ou crie diretamente sob a gerência do Team.
+Crie o repositório e associe ao Time ou Projeto responsável.
 
 ---
 
